@@ -1,0 +1,1 @@
+amixer -D pulse sset Master 150% unmute && firefox https://ip107182233.ahcdn.com/key\=rVLd1aNhqoSs-lejl7YQnw,s\=,end\=1570192184/state\=owVl/buffer\=7587567:2185401,480.0/speed\=758757/reftag\=026428890/ssd10/111/0/142026110/videos/2019/01/clips/296986_8.mp4
